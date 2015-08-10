@@ -1,0 +1,23 @@
+{
+  "name": "Front-end-tools",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ilyaivanov/Front-end-tools",
+  "authors": [
+    "Ilya Ivanov <static.ila@gmail.com>"
+  ],
+  "description": "Examples, showcases and plugins for front-end development",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "front-end"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
