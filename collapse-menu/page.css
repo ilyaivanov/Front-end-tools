@@ -1,0 +1,15 @@
+.menu-area{
+    background-color: grey;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 1em;
+}
+
+.menu-item{
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+.vcenter {
+    vertical-align: middle;
+}
