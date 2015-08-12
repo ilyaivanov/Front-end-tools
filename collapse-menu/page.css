@@ -1,15 +1,23 @@
 .menu-area{
     background-color: grey;
-    padding-left: 10em;
-    padding-right: 10em;
-    padding-top: 1em;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
 }
 
 .menu-item{
     margin-left: 5px;
-    margin-bottom: 2px;
+    margin-bottom: 5px;
+}
+
+.panel{
+    margin-bottom: 30px;
 }
 
 .vcenter {
     vertical-align: middle;
+}
+
+.collapsing {
+    transition: height 0.5s linear;
 }
